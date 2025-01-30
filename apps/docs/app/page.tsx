@@ -33,9 +33,10 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing!!!!!!XD <code>apps/docs/app/page.tsx</code>
+            Get started by editing!!!!!!XDaaa{" "}
+            <code>apps/docs/app/page.tsx</code>
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Save and see your changes instaaantly.</li>
         </ol>
 
         <div className={styles.ctas}>
